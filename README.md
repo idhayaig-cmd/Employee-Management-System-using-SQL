@@ -1,5 +1,5 @@
 
-# 📊 MySQL Assignment 1 – DDL Commands & Constraints
+# 📊 DDL Commands & Constraints
 
 ## 📌 Project Overview
 
