@@ -13,13 +13,12 @@ This project demonstrates the use of **Data Definition Language (DDL)** commands
 
 ---
 
-## 🏗️ 1. Database & Table Creation (CREATE)
+## 🏗️ Database & Table Creation (CREATE)
 
 ### ✅ Database Creation
 
 ```sql
 CREATE DATABASE employee_database;
-USE employee_database;
 ```
 
 ### ✅ Tables Created
@@ -47,73 +46,6 @@ USE employee_database;
 
 ---
 
-## 🔧 2. Table Alteration (ALTER)
-
-### ➕ Add New Column
-
-```sql
-ALTER TABLE employees
-ADD email VARCHAR(255);
-```
-
-### ✏️ Modify Column Data Type
-
-```sql
-ALTER TABLE employees
-MODIFY designation VARCHAR(255);
-```
-
-### ❌ Drop Column
-
-```sql
-ALTER TABLE employees
-DROP COLUMN age;
-```
-
-### 🔄 Rename Column
-
-```sql
-ALTER TABLE employees
-RENAME COLUMN hire_date TO date_of_joining;
-```
-
----
-
-## 🔄 3. Table Renaming (RENAME)
-
-```sql
-RENAME TABLE departments TO departments_info;
-RENAME TABLE location TO locations;
-```
-
----
-
-## 🧹 4. Table Truncation (TRUNCATE)
-
-```sql
-TRUNCATE TABLE employees;
-```
-
-* Removes all records from the table
-* Keeps table structure intact
-
----
-
-## 🗑️ 5. Database & Table Dropping (DROP)
-
-### ❌ Drop Table
-
-```sql
-DROP TABLE employees;
-```
-
-### ❌ Drop Database
-
-```sql
-DROP DATABASE employee_database;
-```
-
----
 
 ## 🎯 Key Concepts Covered
 
