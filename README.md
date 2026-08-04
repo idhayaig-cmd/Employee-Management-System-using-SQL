@@ -1,5 +1,5 @@
 
-# 📊 DDL Commands & Constraints
+# 📊Employee Management System using SQL
 
 ## 📌 Project Overview
 
