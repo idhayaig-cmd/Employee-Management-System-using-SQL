@@ -3,7 +3,7 @@
 
 ## 📌 Project Overview
 
-Designed and developed an Employee Management System using MySQL, demonstrating the practical application of Data Definition Language (DDL) commands for database creation, table structuring, and schema modifications. Implemented data integrity through the use of constraints and built scalable database structures aligned with real-world business requirements. Leveraged both basic and advanced SQL concepts, including data manipulation and complex queries, to efficiently manage, retrieve, and analyze employee data for meaningful insights.
+Designed and developed an Employee Management System using MySQL, demonstrating the practical application of Data Definition Language (DDL) commands  and DML commands for database creation, table structuring, and schema modifications. Implemented data integrity through the use of constraints and built scalable database structures aligned with real-world business requirements. Leveraged both basic and advanced SQL concepts, including data manipulation and complex queries, to efficiently manage, retrieve, and analyze employee data for meaningful insights.
 
 ## 🎯 Objectives
 
